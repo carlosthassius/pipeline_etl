@@ -1,22 +1,22 @@
-# Projeto: Medieval Softwares - Aumento de Salário para Colaboradores
+# Project: Medieval Softwares - Salary Increase for Employees
 
-## Visão Geral:
-Este projeto tem como objetivo aplicar conhecimentos em pipeline de ETL (Extração, Transformação e Carregamento) para atender às necessidades da Medieval Softwares. A empresa deseja recompensar seus colaboradores que atualmente recebem até R$ 6.000,00 com um aumento salarial de 10%. Os dados dos colaboradores estão armazenados em um arquivo CSV abrangendo informações detalhadas sobre cada membro da equipe.
+## Overview:
+This project aims to apply knowledge in ETL (Extraction, Transformation, and Loading) pipeline to meet the needs of Medieval Softwares. The company wishes to reward its employees who currently earn up to R$ 6,000.00 with a 10% salary increase. The employees' data are stored in a CSV file encompassing detailed information about each team member.
 
-## Desafio:
-O desafio deste projeto é criar um pipeline de ETL eficiente que seja capaz de:
+## Challenge:
+The challenge of this project is to create an efficient ETL pipeline that is capable of:
 
-### Extração: Extrair os dados de salários e informações dos colaboradores do arquivo CSV.
+### Extraction: Extract the salary data and information of the employees from the CSV file.
 
-### Transformação: Identificar e filtrar os colaboradores que se qualificam para o aumento salarial com base no critério estabelecido de R$ 6.000,00 ou menos de salário mensal. Em seguida, calcular o novo salário com o aumento de 10% para esses colaboradores.
+### Transformation: Identify and filter the employees who qualify for the salary increase based on the established criterion of R$ 6,000.00 or less monthly salary. Then, calculate the new salary with the 10% increase for these employees.
 
-### Carregamento: Armazenar os resultados da transformação em um novo conjunto de dados ou atualizar o arquivo CSV original, garantindo que todas as informações estejam atualizadas.
+### Loading: Store the transformation results in a new dataset or update the original CSV file, ensuring that all information is up-to-date.
 
-## Tecnologias Utilizadas:
+## Technologies Used:
 ### Python
 ### Pandas
 ### MySQL
-### ETL (Extração, Transformação e Carregamento)
+### ETL (Extraction, Transformation, and Loading)
 
-## Resultados:
-Este projeto permite à Medieval Softwares realizar um aumento de salário justo e automatizado para seus colaboradores elegíveis, garantindo que todos os processos sejam executados com precisão e eficiência.
+## Results:
+This project allows Medieval Softwares to carry out a fair and automated salary increase for its eligible employees, ensuring that all processes are executed with accuracy and efficiency.
